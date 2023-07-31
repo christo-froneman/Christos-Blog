@@ -27,7 +27,7 @@ How to use EF Core to persist your data and query your database using SQLite.
 ## Bruh, did you really do this on a Mac?
 Aw, well thanks for asking mate.  Yes, yes I did.  I took full advantage of the recent Amazon Prime day and scored a great deal on a Macbook Air 15 inch screen.  This is my first Mac and all I have to say is: why didn't you convince me to do this sooner?  This thing **rocks**!!
 
-With Microsoft's stuff becoming more and more cross platform oriented, I had no trouble setting up a full development environment, including .NET and Visual Studio.  Neat, huh?  But to be honest, the C# Dev Kit suite of extentions for VS Code knocks it out of the park.  As a frontend developer I already love VS Code, but these extentions make for a pretty good .NET / C# development experience using Code.
+With Microsoft's stuff becoming more and more cross platform oriented, I had no trouble setting up a full development environment, including .NET and Visual Studio.  Neat, huh?  But to be honest, the C# Dev Kit suite of extensions for VS Code knocks it out of the park.  As a frontend developer I already love VS Code, but these extensions make for a pretty good .NET / C# development experience using Code.
 
 ## Where's the Frontend Apps?
 I also have two simple frontend apps that interface with this API - one is written in Vue and the other in Angular.  I have separate blog posts to cover these frontend apps.

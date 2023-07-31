@@ -18,11 +18,11 @@ Before I fall asleep, fall over and crack my head open, can you please get to th
 This is a rinse and repeat of the Vue app covered in the previous blog, except it focuses on Angular.
 
 Why did I write it?
-- I have been out of the developement game for a while now (wow, has it really been almost 2 years?), doing some DevOps work for PwC (don't judge me too harshly, the money is studentdous, OK?).  But I'm not kidding anybody.  I am a developer at heart and I want to get back into it.  To refamiliarize myself with the basics of Angular, I followed Deborah Kurata's excellent Pluralsight course.
-- I needed a frontend app to interface with our nifty little minimal ASP.NET Core Web API app.  So while I followed along with the course, I adapted the app to call out Web API that we devloped earlier instead of using hard coded JSON data.
+- I have been out of the development game for a while now (wow, has it really been almost 2 years?), doing some DevOps work for PwC (don't judge me too harshly, the money is stupendous, OK?).  But I'm not kidding anybody.  I am a developer at heart and I want to get back into it.  To re-familiarize myself with the basics of Angular, I followed Deborah Kurata's excellent Pluralsight course.
+- I needed a frontend app to interface with our nifty little minimal ASP.NET Core Web API app.  So while I followed along with the course, I adapted the app to call out Web API that we developed earlier instead of using hard coded JSON data.
 
 ### Refreshing Angular Basics
-This Angular app has many flaws, and that is fine since the primary goal for writing it was to resfresh some of the core principles of Angular, and it did a fine job doing that:
+This Angular app has many flaws, and that is fine since the primary goal for writing it was to refresh some of the core principles of Angular, and it did a fine job doing that:
 - Using the Angular CLI to create the app
 - Using CLI / Webpack to build the app
 - Bindings

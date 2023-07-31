@@ -13,9 +13,9 @@ Ever since I started taking computer science classes in high school and got my f
 
 ---wait, hold up - a Commo-_**what**_?  Dude how old _**are**_ you?---    
 
-... uh, nevermind man, why don't you just keep reading and focus on the important stuff: code monkeys?
+... uh, never mind man, why don't you just keep reading and focus on the important stuff: code monkeys?
 
-As I was saying, I have been geeking out over coding ever since my first introduction to software engineering in high school.  And I have been blessed with a career that allows me pursue this passion.  Even though some jobs weren't as glamerous as the movies would have you believe, I get to do some amazing things and be part of some amazing teams, and mostly get to use cutting edge tools in this crazy industry where the only constant is CHANGE!  
+As I was saying, I have been geeking out over coding ever since my first introduction to software engineering in high school.  And I have been blessed with a career that allows me pursue this passion.  Even though some jobs weren't as glamorous as the movies would have you believe, I get to do some amazing things and be part of some amazing teams, and mostly get to use cutting edge tools in this crazy industry where the only constant is CHANGE!  
 
 ## A Hiatus
 A little less than 2 years ago, word started spreading through the office that the winds of change are blowing and we might not be able to keep our current contract with the Air Force for much longer.  
