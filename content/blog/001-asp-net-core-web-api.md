@@ -1,5 +1,5 @@
 ---
-title: "ASP.NET Core Web API"
+title: "ASP.NET Core Minimal Web API"
 author: "@christo"
 dates:
   published: "2023-07-23"
